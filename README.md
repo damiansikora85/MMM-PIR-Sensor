@@ -2,7 +2,7 @@
 This an extension for the [MagicMirror](https://github.com/MichMich/MagicMirror). It can monitor a [PIR motion](http://www.amazon.com/2013newestseller-HC-SR501-Pyroelectric-Infrared-Detector/dp/B00FDPO9B8) sensor and put your mirror to sleep if nobody uses it by turning off HDMI output or by turning off the mirror via a relay.
 
 ## Important
-THis is fixed version, based on [this post](https://forum.magicmirror.builders/topic/16074/electron-rebuild-and-magicmirror-v2-18-and-more/32?_=16499726789704)
+This is fixed version, based on [this post](https://forum.magicmirror.builders/topic/16074/electron-rebuild-and-magicmirror-v2-18-and-more/32?_=16499726789704)
 
 ## Installation
 1. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/damiansikora85/MMM-PIR-Sensor.git`. A new folder will appear navigate into it.
